@@ -1,6 +1,8 @@
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/c06fadfc-5d93-4b63-8bd3-ad6de2849237" alt="KODRA Athletic Tech Logo" width="220"/>
+<img width="220" alt="KODRA Ability Logo with Arabic Word" src="https://github.com/user-attachments/assets/ab6694a3-b60d-4d14-9267-7f50dc66b01a" />
+
 </p>
+
 
 <h1 align="center">KODRA</h1>
 
